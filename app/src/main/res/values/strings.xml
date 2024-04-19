@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">PlayTask</string>
+    <string name="hello_world">Hello world</string>
+    <string name="hello_android">你好Android</string>
+    <string name="hello">Hello</string>
+    <string name="jnu">JNU</string>
+    <string name="change_text">Change Text</string>
+    <string name="string_item_name" />
+    <string name="string_item_price" />
+    <string name="string_ok">OK</string>
+    <string name="Yes">确定</string>
+    <string name="No">取消</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="TaskName">任务名</string>
+    <string name="string_task_score">奖励分数</string>
+    <string name="string_task_times">完成次数</string>
+</resources>
+
+
